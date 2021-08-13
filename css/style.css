@@ -167,7 +167,7 @@ body {
 }
 
 .collection-woman {
-  background-image: url(../img/woman.png);
+  background-image: url(../img/woman1.png);
 }
 
 .collection-title {
@@ -245,6 +245,6 @@ body {
 .footer-link {
   color: #F4F4F4;
   text-decoration: none;
-  font-size: 14px;
+  font-size: 15px;
 }
 /*# sourceMappingURL=style.css.map */

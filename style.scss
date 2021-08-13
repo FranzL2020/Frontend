@@ -162,7 +162,7 @@ body{
     }
 
     &-woman{
-        background-image: url(../img/woman.png);
+        background-image: url(../img/woman1.png);
        
      }
 
@@ -232,12 +232,12 @@ body{
         justify-content: space-between;
         color:white;
     }
-        &-list{
+    &-list{
         margin-bottom: 10px;
     }
         &-link {
         color:$light-gray;
         text-decoration: none;
-        font-size: 14px;
+        font-size: 15px;
     }
 }
